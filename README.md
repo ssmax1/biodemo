@@ -14,7 +14,7 @@ This program is released as open source software under the terms of [MIT License
 
 Clone this repository: 
 ```
-$ git clone https://github.com/USERNAME/biodemo
+$ git clone https://github.com/ssmax1/biodemo
 ```
 
 Move into the repository directory:
